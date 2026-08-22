@@ -1,0 +1,4 @@
+Cargo.lock linguist-generated
+*.tsx linguist-detectable   
+*.min.css linguist-generated
+public/*.html linguist-vendored
